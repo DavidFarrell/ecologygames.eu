@@ -11,7 +11,7 @@ tags: # tags - one per line
   - raccoon
   - research    
 # (uncomment to make hero post)  - feature
-draft: true
+draft: false
 ---
 Pamela Neff's Master's thesis explores the effectiveness of "BioInvasions: Raccoon Rampage", a board game designed to educate players about the complexities of managing invasive species, specifically raccoons in Europe. 
 <!--more-->

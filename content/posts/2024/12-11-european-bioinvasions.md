@@ -14,7 +14,7 @@ tags: # tags - one per line
   - ragweed
   - asian hornet  
 # (uncomment to make hero post)  - feature
-draft: true
+draft: false
 ---
 European BioInvasions is a role-playing game aimed at expert and real life stakeholders that have to deal with invasive species. The game covers multiple species and how we might manage them in different potential European futures
 <!--more-->  
