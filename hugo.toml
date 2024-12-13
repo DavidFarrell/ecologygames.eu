@@ -1,0 +1,46 @@
+baseURL = 'https://ecologygames.eu/'
+languageCode = 'en-us'
+title = 'Ecology Games'
+theme = 'pehtheme-hugo'
+
+paginate = '6' # <- Set the desired number of posts per page 
+summaryLength = '20' # <- 20 words are approximately 160 characters
+googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
+disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
+
+[params]
+	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
+	description = 'Discover Ecology games'
+	mainSections = 'posts'
+	
+	[params.author]
+		name = 'Paidia'
+		bio = 'Finding the play in problems, we help scientists adesign games for research and outreach'
+		avatar = '/images/paidia.png'
+		twitter = 'https://x.com/playpaidia'
+
+[menu] # Menu management
+	[[menu.main]]
+		name = 'Home'
+		pageRef = '/'
+		weight = 10
+	[[menu.main]]
+		name = 'About'
+		pageRef = '/about'
+		weight = 15
+	[[menu.main]]
+		name = 'Tags'
+		pageRef = '/tags'
+		weight = 20
+	[[menu.main]]
+		name = 'Taxonomy'
+		pageRef = '/categories/'
+		weight = 25
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+  [module.mounts] # Directing the static folder to assets.
+  	source = 'assets'
+  	target = 'static'

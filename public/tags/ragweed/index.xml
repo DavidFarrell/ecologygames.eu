@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ragweed on Ecology Games</title>
+    <link>http://localhost:1313/tags/ragweed/</link>
+    <description>Recent content in Ragweed on Ecology Games</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2024 11:56:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ragweed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>European BioInvasions</title>
+      <link>http://localhost:1313/posts/2024/12-11-european-bioinvasions/</link>
+      <pubDate>Wed, 11 Dec 2024 11:56:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/12-11-european-bioinvasions/</guid>
+      <description>&lt;p&gt;European BioInvasions is a role-playing game aimed at expert and real life stakeholders that have to deal with invasive species. The game covers multiple species and how we might manage them in different potential European futures&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
