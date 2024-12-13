@@ -26,4 +26,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          # Prevent git errors during force push
+          force_orphan: true
 
