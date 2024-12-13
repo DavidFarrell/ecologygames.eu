@@ -2,52 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ecology Games</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://ecologygames.eu/tags/</link>
     <description>Recent content in Tags on Ecology Games</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2024 12:15:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Raccoon</title>
-      <link>http://localhost:1313/tags/raccoon/</link>
-      <pubDate>Wed, 11 Dec 2024 12:15:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/raccoon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Wed, 11 Dec 2024 12:15:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Asian Hornet</title>
-      <link>http://localhost:1313/tags/asian-hornet/</link>
-      <pubDate>Wed, 11 Dec 2024 11:56:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/asian-hornet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Crayfish</title>
-      <link>http://localhost:1313/tags/crayfish/</link>
-      <pubDate>Wed, 11 Dec 2024 11:56:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/crayfish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ragweed</title>
-      <link>http://localhost:1313/tags/ragweed/</link>
-      <pubDate>Wed, 11 Dec 2024 11:56:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ragweed/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Wed, 11 Dec 2024 11:52:13 +0000</lastBuildDate>
+    <atom:link href="https://ecologygames.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feature</title>
-      <link>http://localhost:1313/tags/feature/</link>
+      <link>https://ecologygames.eu/tags/feature/</link>
       <pubDate>Wed, 11 Dec 2024 11:52:13 +0000</pubDate>
-      <guid>http://localhost:1313/tags/feature/</guid>
+      <guid>https://ecologygames.eu/tags/feature/</guid>
       <description></description>
     </item>
   </channel>
