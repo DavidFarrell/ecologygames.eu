@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2023-10-06T20:37:29+07:00
-image: images/2024/handring.png
+image: images/2024/roundTable.png
+caption: "Games designers and researchers working together. Art: Kris Tsenova"
 draft: false
 ---
 
