@@ -4,7 +4,7 @@ date: 2024-12-11T11:52:13Z
 slug: /12-11-ecology-games/
 description: "Games about ecology, by scientists and game designers."
 image: images/2024/ecologyGames.png
-caption: Ecology Games  
+caption: "Ecology Games. Art: Kris Tsenova"
 categories:
   - news
 tags: # tags - one per line  

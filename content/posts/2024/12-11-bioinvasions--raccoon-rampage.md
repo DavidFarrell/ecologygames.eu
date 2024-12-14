@@ -4,7 +4,7 @@ date: 2024-12-11T11:56:18Z
 slug: /12-11-bioinvasions--raccoon-rampage/
 description: "Learn about the North American Raccoon in Europe in this fun, family friendly, boardgame"
 image: images/2024/raccoonRampage.png
-caption: Illustration...
+caption: "BioInvasions: Raccoon Rampage cover. Art: Kris Tsenova"
 categories:
   - games
   - boardgame

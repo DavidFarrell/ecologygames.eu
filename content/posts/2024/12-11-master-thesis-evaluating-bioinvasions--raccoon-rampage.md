@@ -4,7 +4,7 @@ date: 2024-12-11T12:15:11Z
 slug: /12-11-master-thesis-evaluating-bioinvasions--raccoon-rampage/
 description: "Pamela Neff's Master thesis explores the effectiveness of BioInvasions: Raccoon Rampage"
 image: images/2024/thesis.png
-caption: Illustration...
+caption: "Card illustration from Raccoon Rampage. Art: Kris Tsenova"
 categories:
   - news
 tags: # tags - one per line

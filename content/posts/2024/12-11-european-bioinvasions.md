@@ -4,7 +4,7 @@ date: 2024-12-11T11:56:03Z
 slug: /12-11-european-bioinvasions/
 description: "A role-playing experience for real scientists and stakeholders."
 image: images/2024/europeanBioInvasions.png
-caption: Illustration...
+caption: "Map used to track invasions in European BioInvasions. Art: Kris Tsenova"
 categories:
   - games
   - role-playing game
