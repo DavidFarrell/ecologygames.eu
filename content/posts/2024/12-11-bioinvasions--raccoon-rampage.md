@@ -18,6 +18,8 @@ BioInvaders: Raccoon Rampage is a semi-cooperative board game where players take
 <!--more-->  
 Developed as part of EU-funded research projects InvaSiBES and AlienScenarios, the game distils complex socio-ecological challenges into an accessible and engaging format. Players engage in strategic planning and social negotiation, proposing and voting on policies while leveraging action cards to shape outcomes. Designed for 3-4 players aged 12 and up, the game offers a playtime of 45-60 minutes and is available for free on Tabletopia.
 
+![image of Raccoon Rampage back of box](/images/2024/raccoonRampageGame.jpg)
+
 Explore the game for free on [Tabletopia](https://paidia.design/#play-now) or contact the team for details on obtaining a copy. Visit [BioInvasions:Raccoon-Rampage!](https://paidia.design) to learn more about the research and design behind this game.
 
 * disclaimer - Paidia worked on this game!
