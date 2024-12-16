@@ -20,6 +20,6 @@ European BioInvasions is a role-playing game aimed at expert and real life stake
 <!--more-->  
 Developed as part of EU-funded research projects InvaSiBES and AlienScenarios, the game has been successfully run at a workshop in Berlin 2022.
 
-Visit [European BioInvasions](https://paidia.design) to learn more about the research and design behind this game, and download materials to run it yourself.
+Visit [European BioInvasions](https://europeanbioinvasions.ecologygames.eu/) to learn more about the research and design behind this game, and download materials to run it yourself.
 
 * disclaimer - Paidia worked on this game!
