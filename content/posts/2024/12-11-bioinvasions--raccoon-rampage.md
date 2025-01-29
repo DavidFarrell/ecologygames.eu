@@ -20,6 +20,6 @@ Developed as part of EU-funded research projects InvaSiBES and AlienScenarios, t
 
 ![image of Raccoon Rampage back of box](/images/2024/raccoonRampageGame.jpg)
 
-Explore the game for free on [Tabletopia](https://paidia.design/#play-now) or contact the team for details on obtaining a copy. Visit [BioInvasions:Raccoon-Rampage!](https://paidia.design) to learn more about the research and design behind this game.
+Explore the game for free on [Tabletopia](https://raccoonrampage.ecologygames.eu/#play-now) or contact the team for details on obtaining a copy. Visit [BioInvasions:Raccoon-Rampage!](https://raccoonrampage.ecologygames.eu/) to learn more about the research and design behind this game.
 
 * disclaimer - Paidia worked on this game!
