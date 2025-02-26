@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Ecology Games</title>
+    <link>https://ecologygames.eu/categories/games/</link>
+    <description>Recent content in Games on Ecology Games</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2024 11:56:18 +0000</lastBuildDate>
+    <atom:link href="https://ecologygames.eu/categories/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BioInvasions: Raccoon Rampage</title>
+      <link>https://ecologygames.eu/posts/2024/12-11-bioinvasions--raccoon-rampage/</link>
+      <pubDate>Wed, 11 Dec 2024 11:56:18 +0000</pubDate>
+      <guid>https://ecologygames.eu/posts/2024/12-11-bioinvasions--raccoon-rampage/</guid>
+      <description>&lt;p&gt;BioInvaders: Raccoon Rampage is a semi-cooperative board game where players take on roles like environmental agencies, hunters, or animal rights lobbyists, each with their own unique agenda. While working together to prevent raccoons from wreaking ecological havoc across Europe, players must also balance collaboration with rivalries to achieve their personal objectives.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>European BioInvasions</title>
+      <link>https://ecologygames.eu/posts/2024/12-11-european-bioinvasions/</link>
+      <pubDate>Wed, 11 Dec 2024 11:56:03 +0000</pubDate>
+      <guid>https://ecologygames.eu/posts/2024/12-11-european-bioinvasions/</guid>
+      <description>&lt;p&gt;European BioInvasions is a role-playing game aimed at expert and real life stakeholders that have to deal with invasive species. The game covers multiple species and how we might manage them in different potential European futures&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
